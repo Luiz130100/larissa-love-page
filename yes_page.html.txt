@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Você disse SIM!</title>
+  <link rel="stylesheet" href="yes_style.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="header_text">Sabia que você me ama! 💖</h1>
+    <div class="gif_container">
+      <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="gif fofo">
+    </div>
+  </div>
+</body>
+</html>
